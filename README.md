@@ -10,7 +10,7 @@ Website: [free-addons.org](https://free-addons.org/).
 # Dependencies
 Free Download Manager 6.32 (or higher) is required.
 
-Python 3.10 (or higher) and Deno 2.0 (or higher) are required. Both can be installed by Free Download Manager automatically when installing add-on.
+Python 3.10 (or higher) and Deno 2.3 (or higher) are required. Both can be installed by Free Download Manager automatically when installing add-on.
 
 # Building
 > **_NOTE:_**  You don't have to build Elephant add-on on your own, if you don't want to. Just proceeed to the Installation section then.
@@ -23,6 +23,6 @@ Python 3.10 (or higher) and Deno 2.0 (or higher) are required. Both can be insta
 2. Install elephant.fda addon into FDM using its menu (make sure you have the latest FDM installed).
 
 # Troubleshooting
-Can't download? Make sure that "Allow add-ons to use web browser cookies" option is enabled in FDM add-ons' settings. Beware that by enabling this option you run the risk of your account being banned (temporarily or permanently). Be mindful with the request rate and amount of downloads you make with an account.
+Still can't download using Elephant? Make sure that "Allow add-ons to use web browser cookies" option is enabled in FDM add-ons' settings. Beware that by enabling this option you run the risk of your account being banned (temporarily or permanently). Be mindful with the request rate and amount of downloads you make with an account.
 
 One more thing to note is that Mozilla Firefox web browser is recommended, as it's well supported to get the cookies from.
